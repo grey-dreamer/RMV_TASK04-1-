@@ -1,3 +1,0 @@
-/home/manba/Project/task/build/CMakeFiles/rebuild_cache.dir
-/home/manba/Project/task/build/CMakeFiles/edit_cache.dir
-/home/manba/Project/task/build/CMakeFiles/task.dir
